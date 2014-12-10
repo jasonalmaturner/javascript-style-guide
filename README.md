@@ -1,9 +1,8 @@
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # DevMountain's JavaScript Style Guide
-* Forked from AirBnB
 
-*A mostly reasonable approach to JavaScript*
+*The official JavaScript style guide for DevMountain. Forked from AirBnB*
 
 
 ## Table of Contents
